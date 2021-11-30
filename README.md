@@ -18,7 +18,7 @@ Another example
 
 Please fork this repository and then issue Pull request for review
 
-adding more text for example 
+adding more text for example,, more changes from myfeature branch too
 
 ### Copyright
 
