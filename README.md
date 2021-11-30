@@ -16,6 +16,8 @@ Sample of not commiting the changes, just adding them to the index.
 
 Another example
 
+Please fork this repository and then issue Pull request for review
+
 ### Copyright
 
 2021 Git.Training
