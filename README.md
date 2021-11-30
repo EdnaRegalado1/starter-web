@@ -22,4 +22,4 @@ adding more text for example,, more changes from myfeature branch too
 
 ### Copyright
 
-2021 Git.Training
+2021 Git.Training All rights reserved.
