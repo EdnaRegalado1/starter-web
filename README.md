@@ -15,3 +15,7 @@ This is another example on how to add new text to the read me file.
 Sample of not commiting the changes, just adding them to the index.
 
 Another example
+
+### Copyright
+
+2021 Git.Training
